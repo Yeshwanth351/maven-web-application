@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>maven web Nexus Repository </name>
-	      <url>http://107.23.141.103:8081/repository/mss-web-snapshot/</url>
+	      <url>http://34.203.9.0:8081/repository/mss-web-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
